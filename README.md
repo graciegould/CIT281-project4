@@ -26,6 +26,4 @@
 10. Gained experience using Postman to test web server routes
 11. Gained experience working with JSON
 12. POST, PUT, and DELETE verbs
-
-
  
